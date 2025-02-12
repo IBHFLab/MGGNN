@@ -10,10 +10,10 @@ To address this challenge, **MGGNN** offers a **computational cardiotoxicity pre
 - **Nine Cardiotoxicity Categories**: Predicts toxicity across multiple compound-related conditions, including:  
   - **Arrhythmia**  
   - **Cardiac Failure**  
-  - **General Cardiotoxicity**  
+  - **Cardiotoxicity**  
   - **Heart Block**  
   - **Hypertension**  
-  - **Myocardial Damage**  
+  - **Myocardial**  
   - **Ion Channel Blockage** (*hERG, CaV1.2, NaV1.5*)  
 - **Toxicity Alert Structures**: Identifies key structural patterns associated with toxicity risks.  
 - **Online Server for Predictions**: Provides a **web-based tool** for cardiotoxicity assessment and structure-toxicity analysis.  
